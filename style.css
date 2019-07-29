@@ -1,0 +1,44 @@
+body {
+    margin: center;
+    text-align: center;
+    background-color: #875dfc;
+    color: #fff;
+}
+
+#cookies {
+    border: none;
+    width: 350px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+#texts {
+    text-align: right;
+    margin-top: -350px;
+}
+
+#marketCookie {
+    text-align: left;
+    margin-top: -160px;
+}
+
+i { 
+    font-size: 10px;
+    margin-left: 10px;
+
+}
+#resultcookies {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+button {
+    text-decoration: none;
+    border: none;
+    margin-top: 10px;
+    background-color: #fce45d;
+}
+
+button:disabled {
+    background-color: #fc3e3e;
+}
